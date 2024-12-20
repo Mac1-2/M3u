@@ -1,0 +1,646 @@
+#EXTM3U
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | ✦●✦●      POLAND      ✦●✦●      
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=197028&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvp.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | TVP UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17538&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvp1.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP1.png" group-title="PL | 4K POLAND", PL | TVP 1 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17544&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvp2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP2.png" group-title="PL | 4K POLAND", PL | TVP 2 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17542&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvp3.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP3.png" group-title="PL | 4K POLAND", PL | TVP 3 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17541&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvpseriale.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSERIALE.png" group-title="PL | 4K POLAND", PL | TVP SERIALE UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17532&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvn.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN.png" group-title="PL | 4K POLAND", PL | TVN UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17552&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvn7.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN7.png" group-title="PL | 4K POLAND", PL | TVN 7 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17556&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="polsat.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | POLSAT UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17625&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="polsat2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT2.png" group-title="PL | 4K POLAND", PL | POLSAT 2 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17633&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvpuls.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | TV PULS UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17564&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvpuls2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PULS2.png" group-title="PL | 4K POLAND", PL | PULS 2 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17593&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tv4.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV4HD.png" group-title="PL | 4K POLAND", PL | TV4 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17561&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="ttv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TTV.png" group-title="PL | 4K POLAND", PL | TTV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17566&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvnturbo.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNTURBO.png" group-title="PL | 4K POLAND", PL | TVN TURBO UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17548&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvpinfo.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | TVP INFO UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17535&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvn24.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="PL | 4K POLAND", PL | TVN 24 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17558&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvn24.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="PL | 4K POLAND", PL | TVN24 BIS UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17546&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="polsatnews.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png" group-title="PL | 4K POLAND", PL | POLSAT NEWS UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17620&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="polsatnews2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS2.png" group-title="PL | 4K POLAND", PL | POLSAT NEWS 2 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17622&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvnstyle.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNSTYLE.png" group-title="PL | 4K POLAND", PL | TVN STYLE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17550&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tv6.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV6.png" group-title="PL | 4K POLAND", PL | TV6 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17560&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvrepublika.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVREPUBLIKA.png" group-title="PL | 4K POLAND", PL | TV REPUBLIKA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17563&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="polsatplay.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATPLAY.png" group-title="PL | 4K POLAND", PL | POLSAT PLAY UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17618&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="polsatcafe.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATCAFE.png" group-title="PL | 4K POLAND", PL | POLSAT CAFE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17631&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="superpolsat.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERPOLSAT.png" group-title="PL | 4K POLAND", PL | SUPER POLSAT UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17579&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png" group-title="PL | 4K POLAND", PL | POLSAT RODZINA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135094&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvnfabula.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNFABULA.png" group-title="PL | 4K POLAND", PL | TVN FABULA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17554&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png" group-title="PL | 4K POLAND", PL | POLSAT GAMES UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135087&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="canalplus4kuhd.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png" group-title="PL | 4K POLAND", PL | CANAL+ 4K
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=295665&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSEUROPAHD.png" group-title="PL | 4K POLAND", PL | CBS EUROPA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135019&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="cbsreality.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSREALITY.png" group-title="PL | 4K POLAND", PL | CBS REALITY UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17745&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="13ulica.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SCIFIHD.png" group-title="PL | 4K POLAND", PL | SCIFI UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17587&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="fox.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOX.png" group-title="PL | 4K POLAND", PL | FOX UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17689&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="foxcomedy.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | FOX COMEDY UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17691&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="13ulica.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/13ULICAHD.png" group-title="PL | 4K POLAND", PL | 13 ULICA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17793&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/E!ENTERTAINMENT.png" group-title="PL | 4K POLAND", PL | E! ENTERTAINMENT UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17725&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVS.png" group-title="PL | 4K POLAND", PL | TVS UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=137418&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="stopklatka.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STOPKLATKATV.png" group-title="PL | 4K POLAND", PL | STOPKLATKA TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17583&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERSTACJA.png" group-title="PL | 4K POLAND", PL | SUPER STACJA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135115&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="fokustv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOKUSTV.png" group-title="PL | 4K POLAND", PL | FOKUS TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17695&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/METRO.png" group-title="PL | 4K POLAND", PL | METRO UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17664&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="nowatv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NOWATV.png" group-title="PL | 4K POLAND", PL | NOWA TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17645&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WP.png" group-title="PL | 4K POLAND", PL | WP UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17525&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="dtx.ro" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | DTX
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=124722&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ZOOMTV.png" group-title="PL | 4K POLAND", PL | ZOOM TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17524&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="bbcbrit.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png" group-title="PL | 4K POLAND", PL | BBC BRIT UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=139865&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="bbclifestyle.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png" group-title="PL | 4K POLAND", PL | BBC LIFESTYLE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=139867&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="adventure.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ADVENTUREHD.png" group-title="PL | 4K POLAND", PL | ADVENTURE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17788&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DOMOHD.png" group-title="PL | 4K POLAND", PL | DOMO UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135033&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="hgtv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/HGTVHD.png" group-title="PL | 4K POLAND", PL: HGTV 
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17681&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="kuchniaplus.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KUCHNIAHD.png" group-title="PL | 4K POLAND", PL | KUCHNIA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17668&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | STUDIO MED TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135112&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="romancetv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ROMANCETV.png" group-title="PL | 4K POLAND", PL | ROMANCE TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17589&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="lifetime.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/LIFETIMEHD.png" group-title="PL | 4K POLAND", PL | LIFETIME UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17666&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUNDANCEHD.png" group-title="PL | 4K POLAND", PL | SUNDANCE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17581&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="motowizja.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MOTOWIZJATVHD.png" group-title="PL | 4K POLAND", PL | MOTOWIZJA
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17660&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DTX.png" group-title="PL | 4K POLAND", PL | DTX UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17727&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POWERTV.png" group-title="PL | 4K POLAND", PL | POWER TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17594&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ACTIVEFAMILY.png" group-title="PL | 4K POLAND", PL | ACTIVE FAMILY UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17790&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VH1.png" group-title="PL | 4K POLAND", PL | VH1 UHDʳᵉᶜ
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17527&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="tvprozrywka.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPROZRYWKA.png" group-title="PL | 4K POLAND", PL | TVP ROZRYWKA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17533&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | ATM ROZRYWKA TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=134999&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | ✦●✦●      MUSIC      ✦●✦●      
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=197031&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="mtvpolska.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MTVPOLSKA.png" group-title="PL | 4K POLAND", PL | MTV POLSKA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17656&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="polotv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLOTV.png" group-title="PL | 4K POLAND", PL | POLO TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17635&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="4funtv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUN.TV.png" group-title="PL | 4K POLAND", PL | 4FUN TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17795&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATMUSIC.png" group-title="PL | 4K POLAND", PL | POLSAT MUSIC UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135090&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/VOXMUSIC.png" group-title="PL | 4K POLAND", PL: |UHD| VOX MUSIC TV
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17526&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKAROCKTV.png" group-title="PL | 4K POLAND", PL | ESKA ROCK TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135043&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="eskatv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | ESKA TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17714&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="eskatv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKATVEXTRA.png" group-title="PL | 4K POLAND", PL | ESKA TV EXTRA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17713&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOPOLOMUSIC.png" group-title="PL | 4K POLAND", PL | DISCO POLO MUSIC UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135025&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="4funhits.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNGOLDHITS.png" group-title="PL | 4K POLAND", PL | 4FUN GOLD HITS UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17791&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="13ulica.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNDANCE.png" group-title="PL | 4K POLAND", PL | 4FUN DANCE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17792&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATROMANS.png" group-title="PL | 4K POLAND", PL | POLSAT ROMANS UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135095&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | 4K POLAND", PL | TRACE TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135119&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVS
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339725&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| CNN HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339766&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TLC HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339769&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVN HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339771&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVN24 HD INTERNATIONAL
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339773&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| WARNER TV HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339775&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TTV HD (720P)
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339776&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| ZOOM TV HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339794&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| WP HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339795&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| ROMANCE TV HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339801&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TELE5 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339811&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| STUDIOMED TV HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339812&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TBN POLSKA
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339822&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| CI POLSAT HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339840&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| POLSAT COMEDY CENTRAL EXTRA
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339841&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| PARAMOUNT CHANNEL HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339842&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| AXN SPIN HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339845&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| BBC FIRST
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339846&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| AMC
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339847&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| CBS REALITY
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339848&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| COMEDY CENTRAL POLSKA HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339849&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| EPIC DRAMA HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339851&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| SUNDANCE HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339852&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| ROMANCE TV HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339853&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| NOVELA TV
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339854&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVN STYLE
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339855&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TLC HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339856&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| HGTV
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339857&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| FOOD NETWORK HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339858&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVN TURBO
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339859&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| KINO POLSKA
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339860&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MTV LIVE HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339861&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MTV 90
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339863&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MTV HITS
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339864&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MTV CLUB
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339865&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MTV 80
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339866&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TV REPUBLIKA
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339871&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| WPOLSCE.PL
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339872&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TV OKAZJE
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339874&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| 4FUN KIDS
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339876&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| AXN
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339878&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| BBC EARTH
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339880&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| E
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339886&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MINIMINI+
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339890&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MTV 90S
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339892&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MTV HITS
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339893&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MTV LIVE HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339894&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| MTV POLSKA
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339895&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| NOVELAS+
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339896&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| NUTA.TV
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339897&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| PLANETE+
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339898&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVN 24 BIS
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339900&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVP ABC
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339910&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVP HISTORIA
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339912&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVP KULTURA
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339914&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVT
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339944&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL| TVT ZGORZELEC
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339945&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | 4K POLAND", PL | V EXPLORE
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339946&extension=ts&play_token=uXj5IPlYBH
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA", PL | ✦●✦●      FILM      ✦●✦●      
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=197030&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="kinopolska.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title="PL | CINEMA", PL | KINO POLSKA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17673&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="kinopolskamuzyka.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title="PL | CINEMA", PL |  KINO POLSKA MUZYKA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17672&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="polsatfilm.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATFILM.png" group-title="PL | CINEMA", PL | POLSAT FILM UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17627&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="hbo.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO1.png" group-title="PL | CINEMA", PL | HBO UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17687&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="hbo2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO2.png" group-title="PL | CINEMA", PL | HBO 2 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17685&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="hbo3.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO3.png" group-title="PL | CINEMA", PL | HBO 3 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17683&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="axn.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA", PL | AXN UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17780&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNWHITE.png" group-title="PL | CINEMA", PL | AXN WHITE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135004&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNBLACK.png" group-title="PL | CINEMA", PL | AXN BLACK UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135001&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="axnspin.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNSPIN.png" group-title="PL | CINEMA", PL | AXN SPIN UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17778&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="13ulica.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png" group-title="PL | CINEMA", PL | CANAL+ UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17764&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="13ulica.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA", PL | CANAL 1 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17752&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFAMILY.png" group-title="PL | CINEMA", PL | CANAL FAMILY UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135009&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFILM.png" group-title="PL | CINEMA", PL | CANAL FILM UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17766&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="canalplusseriale.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALSERIALE.png" group-title="PL | CINEMA", PL: |UHD| CANAL SERIALE 
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17762&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="alekino.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ALEKINO.png" group-title="PL | CINEMA", PL | ALE KINO UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17787&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA", PL | VOD 205 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=139871&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA", PL | VOD 208 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=139874&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="kinopolska.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title="PL | CINEMA", PL | KINO TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17670&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="filmboxextra.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXEXTRA.png" group-title="PL | CINEMA", PL | FILMBOX EXTRA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17700&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="filmboxpremium.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXPREMIUM.png" group-title="PL | CINEMA", PL | FILMBOX PREMIUM UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17697&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXACTION.png" group-title="PL | CINEMA", PL | FILMBOX ACTION UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135049&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="filmboxfamily.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXFAMILY.png" group-title="PL | CINEMA", PL | FILMBOX FAMILY UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17699&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="filmboxarthouse.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXARTHOUSE.png" group-title="PL | CINEMA", PL | FILMBOX ARTHOUSE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17702&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/EPICDRAMAHD.png" group-title="PL | CINEMA", PL | EPIC DRAMA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=137416&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="amc.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA", PL | AMC UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17784&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="tnt.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TNT.png" group-title="PL | CINEMA", PL | TNT UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17573&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="cinemax.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | CINEMA", PL | CINEMAX UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17739&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="cinemax2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CINEMAX2.png" group-title="PL | CINEMA", PL | CINEMAX 2 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17741&extension=ts&play_token=Iu4qggZhDc
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | DOCU", ✦●✦●      DOCU      ✦●✦●      
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=215646&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="travelchannel.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TRAVELCHANNEL.png" group-title="PL | DOCU", PL | TRAVEL CHANNEL UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17569&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | DOCU", PL | SCIFI
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=415994&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="paramount.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PARAMOUNTCHANNEL.png" group-title="PL | DOCU", PL | PARAMOUNT CHANNEL UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17639&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATDOKU.png" group-title="PL | DOCU", PL | POLSAT DOKU UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17629&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="history.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png" group-title="PL | DOCU", PL | HISTORY UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17677&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="history2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png" group-title="PL | DOCU", PL | HISTORY 2 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=216595&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="tvphistoria.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPHISTORIA.png" group-title="PL | DOCU", PL | TVP HISTORIA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17537&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="tvpkultura.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPKULTURA.png" group-title="PL | DOCU", PL | TVP KULTURA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17534&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="discoveryscience.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERYSCIENCE.png" group-title="PL | DOCU", PL | DISCOVERY SCIENCE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17729&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="discovery.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERY.png" group-title="PL | DOCU", PL | DISCOVERY UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17734&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISCOVERYCHANNEL.png" group-title="PL | DOCU", PL | DISCOVERY LIFE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135028&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="discoveryhistoria.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOVERYHISTORIA.png" group-title="PL | DOCU", PL | DISCOVERY HISTORIA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17733&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="davincilearning.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DAVINCI.png" group-title="PL | DOCU", PL | DA VINCI UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17736&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="planete.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PLANETEHD.png" group-title="PL | DOCU", PL | PLANETE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17637&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NATGEOPEOPLEHD.png" group-title="PL | DOCU", PL | NAT GEO PEOPLE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135076&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="natgeowild.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGCWILD.png" group-title="PL | DOCU", PL | NATIONAL GEO WILD UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17650&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="natgeowild.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGC.png" group-title="PL | DOCU", PL | NATIONAL GEO UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17652&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BBCFIRST.png" group-title="PL | DOCU", PL | BBC FIRST UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17774&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="bbcearth.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBCEARTH.png" group-title="PL | DOCU", PL | BBC EARTH UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17776&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WATERPLANET.png" group-title="PL | DOCU", PL | WATER PLANET UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=137421&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ID.png" group-title="PL | DOCU", PL | ID UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17675&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATEXPLOREHD.png" group-title="PL | DOCU", PL | POLSAT VIASAT EXPLORE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135102&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="polsatviasathist.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATHISTORY.png" group-title="PL | DOCU", PL | POLSAT VIASAT HISTORY UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17597&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="polsatviasatnature.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATNATURE.png" group-title="PL | DOCU", PL | POLSAT VIASAT NATURE UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17595&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TLCHD.png" group-title="PL | DOCU", PL | TLC UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17575&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="13ulica.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/FOODNETWORK.png" group-title="PL | DOCU", PL | FOOD NETWORK UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17693&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="starstv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STARSTV.png" group-title="PL | DOCU", PL | STARS TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17584&extension=ts&play_token=O9ZBNSkTH5
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | ✦●✦●      SPORT      ✦●✦●      
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=197029&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="fightbox.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTBOXHD.png" group-title="PL | SPORT", PL | FIGHTBOX UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17705&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="tvpsport.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSPORT.png" group-title="PL | SPORT", PL | TVP SPORT 
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17530&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="eurosport1.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT1.png" group-title="PL | SPORT", PL | EUROSPORT 1 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17711&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="eurosport2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT2.png" group-title="PL | SPORT", PL | EUROSPORT 2 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17709&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="nsport.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NSPORT+.png" group-title="PL | SPORT", PL | NSPORT UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17643&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="sportklub.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SPORTKLUBHD.png" group-title="PL | SPORT", PL | SPORTKLUB UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17585&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsport.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png" group-title="PL | SPORT", PL | POLSAT SPORT UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17613&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsportpremium1.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | POLSAT SPORT PREMIUM 1 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17609&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsportpremium2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | POLSAT SPORT PREMIUM 2 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17607&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsportpremium3ppv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | POLSAT SPORT PREMIUM 3
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=271820&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsportpremium4ppv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | POLSAT SPORT PREMIUM 4
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=271821&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsportpremium5ppv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | POLSAT SPORT PREMIUM 5
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=271822&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsportpremium6ppv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | POLSAT SPORT PREMIUM 6
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=271823&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsportfight.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTFIGHT.png" group-title="PL | SPORT", PL | POLSAT SPORT FIGHT UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=139869&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="canalplussport.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORTHD.png" group-title="PL | SPORT", PL | CANAL+  SPORT 1
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17754&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="canalplussport2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORT2HD.png" group-title="PL | SPORT", PL | CANAL+ SPORT 2
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17760&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | CANAL+ SPORT 3
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135014&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="canalplussport4.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png" group-title="PL | SPORT", PL | CANAL+ SPORT 4
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=271819&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="elevensports1.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | ELEVEN SPORTS 1 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17723&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="elevensports2.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | ELEVEN SPORTS 2 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17721&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="elevensports3.pl" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | ELEVEN SPORTS 3 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17719&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | ELEVEN SPORTS 4 UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17717&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/GOLFCHANNEL.png" group-title="PL | SPORT", PL | GOLF CHANNEL UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135060&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsportextra.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTEXTRA.png" group-title="PL | SPORT", PL | POLSAT SPORT EXTRA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17617&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | SPORT", PL | EXTREME SPORTS UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135046&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTKLUBHD.png" group-title="PL | SPORT", PL | FIGHTKLUB UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135048&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="polsatsportnews.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png" group-title="PL | SPORT", PL | POLSAT SPORT NEWS UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17611&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| CANAL+ SPORT 2 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339990&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| CANAL+ SPORT 3 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339991&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| CANAL+ SPORT 5
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339992&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| CANAL+ SPORT HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339993&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| ELEVEN SPORTS 1 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339994&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| ELEVEN SPORTS 2 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339995&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| ELEVEN SPORTS 3 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339996&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| ELEVEN SPORTS 4 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339997&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT 1 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339998&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT 2 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340000&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| ELEVEN SPORTS 4
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340004&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| CANAL + SPORT 3 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340005&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| CANAL + SPORT  4 HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340006&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| CANAL SPORT
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340008&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| CANAL+ SPORT 4
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340009&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| CANAL+ SPORT 5
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340010&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| ELEVEN SPORTS 1 4K
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340011&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| POLSAT CRIME & INVESTIGATION
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340012&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| POLSAT SPORT PREMIUM 1
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340013&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| POLSAT SPORT PREMIUM 2
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340014&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| POLSAT SPORT PREMIUM 3
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340015&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| POLSAT SPORT PREMIUM 6
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340016&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 1
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340017&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 2
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340018&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 3
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340019&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 4
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340020&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 5
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340021&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 6
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340022&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 7
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340023&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 8
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340024&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 9
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340025&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 10
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340026&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 11
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340027&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 12
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340028&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 13
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340029&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 14
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340030&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | SPORT", PL| EUROSPORT EVENT 15
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=340031&extension=ts&play_token=l5eOD4lJF1
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | KIDS", PL | ✦●✦●      KIDS      ✦●✦●      
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=197032&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="comedycentral.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/COMEDYCENTRAL.png" group-title="PL | KIDS", PL | COMEDY CENTRAL UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17737&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/COMEDYCENTRALFAMILY.png" group-title="PL | KIDS", PL | COMEDY CENTRAL FAMILY POLSKA UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=137415&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="babytv.pl" tvg-logo="https://logo.diamondtv.one/images/logos/USA/BABYTVHD.png" group-title="PL | KIDS", PL | BABY TV UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=137302&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATJIMJAM.png" group-title="PL | KIDS", PL | POLSAT JIM JAM UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135089&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="boomerang.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BOOMERANG.png" group-title="PL | KIDS", PL | BOOMERANG UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17772&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/CARTOONNETWORK.png" group-title="PL | KIDS", PL | CARTOON NETWORK UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135018&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png" group-title="PL | KIDS", PL | DISNEY XD UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135032&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png" group-title="PL | KIDS", PL | DISNEY JUNIOR UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=135031&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="nickjr.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKJUNIOR.png" group-title="PL | KIDS", PL | NICK JR. UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17649&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="nickelodeon.pl" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKELODEON.png" group-title="PL | KIDS", PL |  NICKELODEON UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17648&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="teletoon.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TELETOON.png" group-title="PL | KIDS", PL | TELETOON UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17577&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="minimini.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MINIMINIHD.png" group-title="PL | KIDS", PL | MINIMINI UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17662&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="tvpabc.pl" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPABC.png" group-title="PL | KIDS", PL | TVP ABC UHD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=17540&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| BOOMERANG HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339956&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| NICKELODEON UKRAINE PLUTO TV
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339957&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| DA VINCI HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339961&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| CARTOONITO
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339967&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| NICK JR
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339969&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| NICKTOONS
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339970&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| CARTOON NETWORK HD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339971&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| BBC CBEEBIES
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339972&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| DISNEY CHANNEL
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339973&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| DISNEY JUNIOR
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339974&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| DISNEY XD
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339975&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| 4FUN KIDS
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339976&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| CARTOON NETWORK
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339979&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| CBEEBIES
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339980&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| DISNEY CHANNEL
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339981&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| DISNEY JUNIOR
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339982&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| NICK
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339983&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| NICK JR.
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339984&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="PL | KIDS", PL| NICKTOONS
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=339985&extension=ts&play_token=Ys6tOq9j94
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", ✦●✦●      PL VIAPLAY      ✦●✦●      
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=220841&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 1
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390273&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 2
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390262&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 3
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390257&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 4
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390256&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 5
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390255&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 6
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390254&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 7
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390253&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 8
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390252&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 9
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390251&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 10
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390272&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 11
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390271&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 12
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390270&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 13
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390269&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 14
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390268&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 15
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390267&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 16
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390266&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 17
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390265&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 18
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390264&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 19
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390263&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 20
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390261&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 21
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390260&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 22
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390259&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="PL | VIAPLAY", PL | VIAPLAY XTRA 23
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=390258&extension=ts&play_token=KEpJ1da9l8
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV", ✦●✦●      PL PPV      ✦●✦●      
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=220852&extension=ts&play_token=GM9Vgig8ah
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV", PL | PPV 1
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=220853&extension=ts&play_token=GM9Vgig8ah
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV", PL | PPV 2
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=220854&extension=ts&play_token=GM9Vgig8ah
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV", PL | PPV 3
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=220855&extension=ts&play_token=GM9Vgig8ah
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV", PL | PPV 4
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=220856&extension=ts&play_token=GM9Vgig8ah
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV", PL | PPV 5
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=220857&extension=ts&play_token=GM9Vgig8ah
+#EXTINF:0 tvg-id="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="PL | PPV", PL | PPV 6
+http://elitetv.nl:80/play/live.php?mac=00:1A:79:06:9B:59&stream=220858&extension=ts&play_token=GM9Vgig8ah
+
